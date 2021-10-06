@@ -1,0 +1,19 @@
+.Feedback__btn {
+  font-size: 25;
+
+  padding: 10px 20px;
+  margin-right: 10px;
+
+  color: rgb(255, 255, 255);
+  background-color: rgb(75, 75, 75);
+  border-radius: 10px;
+
+  box-shadow: tomato;
+}
+
+.Feedback__btn:hover,
+.Feedback__btn:focus {
+  cursor: pointer;
+  color: rgb(75, 75, 75);
+  background-color: white;
+}
